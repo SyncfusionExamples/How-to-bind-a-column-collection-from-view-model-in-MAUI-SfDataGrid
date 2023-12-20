@@ -45,7 +45,7 @@ The following screenshot shows column collection binded from a property in view 
 
 ![DataGrid with Selection Command](SfDataGrid_Binding_Columns.png)
 
-[View sample in GitHub]()
+[View sample in GitHub](https://github.com/SyncfusionExamples/How-to-bind-a-column-collection-from-view-model-in-MAUI-SfDataGrid/tree/master)
 
 Take a moment to pursue this [documentation](https://help.syncfusion.com/maui/datagrid/overview), where you can find more about Syncfusion .NET MAUI DataGrid (SfDataGrid) with code examples.
 Please refer to this [link](https://www.syncfusion.com/maui-controls/maui-datagrid) to learn about the essential features of Syncfusion .NET MAUI DataGrid(SfDataGrid).
